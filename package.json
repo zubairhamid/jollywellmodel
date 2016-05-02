@@ -1,0 +1,14 @@
+{
+  "name": "@cloudmpower/jollywellmodel",
+  "version": "0.0.19",
+  "description": "jollywell model def",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "jollywell"
+  ],
+  "author": "zubairhamid@cloudmpower.com",
+  "license": "ISC"
+}
