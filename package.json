@@ -1,6 +1,6 @@
 {
   "name": "@cloudmpower/jollywellmodel",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "jollywell model def",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,13 @@
     "jollywell"
   ],
   "author": "zubairhamid@cloudmpower.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zubairhamid/jollywellmodel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zubairhamid/jollywellmodel/issues"
+  },
+  "homepage": "https://github.com/zubairhamid/jollywellmodel"
 }
